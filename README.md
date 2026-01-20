@@ -30,3 +30,9 @@ Created Age Groups and Bench Status
 Mapped LeaveOrNot column
 
 Cleaned and transformed raw HR data for analysis
+
+
+## 📸 Dashboard Preview
+![IT Employee Attrition Dashboard](images/Dashboard.png)
+![IT Employee Attrition Dashboard](images/Dashboard with filter.png)
+
