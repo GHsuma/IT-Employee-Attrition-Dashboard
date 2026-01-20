@@ -34,5 +34,6 @@ Cleaned and transformed raw HR data for analysis
 
 ## 📸 Dashboard Preview
 ![IT Employee Attrition Dashboard](images/Dashboard.png)
-![IT Employee Attrition Dashboard](images/withFilter.png)
+![IT Employee Attrition Dashboard](images/with_Filter.png)
+
 
